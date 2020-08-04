@@ -1,0 +1,10 @@
+Welcome to My Mobile Inventory Management System
+My project contains alot of files. So whenever you run my project, compile all files with javac fileName.java and in last My main file is inventory so after
+compiling all files. Compile javac inventory.java  and then java inevntory
+When you will open by typing javac inventory.java, you will find catalogue containing 4 options. Like insert, update, delete and modify. 
+So when you will press enter to insert, all the options will appear and data will be inserted on MYPHPADMIN Database mobile_inventory_management as i have also attached
+file of exported table.
+When you want to modify it, you can modify all the details.
+When you want to delete, then pop will appear for deletion only it will ask some details after that all the record from both the table will be deleted
+When you want to search, you will only have to give name of the product to searh.
+
